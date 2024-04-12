@@ -1,13 +1,12 @@
 {
-  "name": "next-auth-google-sso-mongodb",
+  "name": "next-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "prepare": "husky",
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": "eslint . --fix",
