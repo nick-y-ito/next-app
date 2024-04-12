@@ -1,0 +1,5 @@
+node_modules
+.next
+next.config.js
+postcss.config.js
+commitlint.config.js
