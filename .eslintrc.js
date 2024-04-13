@@ -34,5 +34,6 @@ module.exports = {
     semi: ['error', 'always'],
     'simple-import-sort/imports': 'error',
     'simple-import-sort/exports': 'error',
+    '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_$' }],
   },
 };
